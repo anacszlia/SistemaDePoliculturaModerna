@@ -1,2 +1,2 @@
-#SistemaDePoliculturaModerna
+# SistemaDePoliculturaModerna
 Projeto focado em gerenciar uma fazenda moderna altamente tecnológica e autossustentável com diversos tipos de plantas e animais , cada um com suas características, produtividade, necessidades e manejo ,além de um controle da Fazenda,como acionamento de máquinas,drones,irrigação e relatórios de energia sustentável.Esse sistema abordará o pilar da abstração ,como ser vivo,a herança de comportamentos semelhantes,o polimorfismo e o encapsulamento.
